@@ -1,0 +1,9 @@
+D:\Projects\SCPHZ\Launcher\Alpha\AULib\bin\Release\AULib.dll
+D:\Projects\SCPHZ\Launcher\Alpha\AULib\bin\Release\AULib.pdb
+D:\Projects\SCPHZ\Launcher\Alpha\AULib\obj\Release\AULib.csproj.AssemblyReference.cache
+D:\Projects\SCPHZ\Launcher\Alpha\AULib\obj\Release\AULib.csproj.CoreCompileInputs.cache
+D:\Projects\SCPHZ\Launcher\Alpha\AULib\obj\Release\AULib.dll
+D:\Projects\SCPHZ\Launcher\Alpha\AULib\obj\Release\AULib.pdb
+D:\Projects\SCPHZ\Launcher\Alpha\AULib\bin\Release\UnityEngine.dll
+D:\Projects\SCPHZ\Launcher\Alpha\AULib\bin\Release\UnityEngine.xml
+D:\Projects\SCPHZ\Launcher\Alpha\AULib\obj\Release\AULib.csproj.CopyComplete

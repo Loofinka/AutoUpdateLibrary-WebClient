@@ -1,0 +1,8 @@
+D:\Projects\SCPHZ\Launcher\Alpha\AULib\bin\Debug\AULib.dll
+D:\Projects\SCPHZ\Launcher\Alpha\AULib\bin\Debug\AULib.pdb
+D:\Projects\SCPHZ\Launcher\Alpha\AULib\obj\Debug\AULib.csproj.AssemblyReference.cache
+D:\Projects\SCPHZ\Launcher\Alpha\AULib\obj\Debug\AULib.Default.resources
+D:\Projects\SCPHZ\Launcher\Alpha\AULib\obj\Debug\AULib.csproj.GenerateResource.cache
+D:\Projects\SCPHZ\Launcher\Alpha\AULib\obj\Debug\AULib.csproj.CoreCompileInputs.cache
+D:\Projects\SCPHZ\Launcher\Alpha\AULib\obj\Debug\AULib.dll
+D:\Projects\SCPHZ\Launcher\Alpha\AULib\obj\Debug\AULib.pdb
